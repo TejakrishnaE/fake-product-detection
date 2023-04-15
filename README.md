@@ -8,7 +8,7 @@ This project provides a simple implementation of a blockchain-based system for d
 # Usage
 1.Clone the repository:
 
-git clone https://github.com/<your_username>/fake-product-detection-blockchain.git
+git clone https://github.com/TejakrishnaE/fake-product-detection.git
 
 2.Install the required libraries:
 
